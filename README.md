@@ -92,7 +92,7 @@ pip3 install -r requirements.txt
 ```
 
 ## License
-[MIT License](License)
+[MIT License](LICENSE)
 ## Contributing
 [Balwant](https://github.com/balwantyadav1)  - Developer
 
