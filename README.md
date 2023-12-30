@@ -4,6 +4,7 @@
 * [Discover More About the Project ](#More-About-the-Project)
 * [Screenshots](#Screenshots)
 * [Installation](#Installation)
+* [Install Reconnaissance Tool](https://github.com/balwantyadav1/BugHunterKit.git)
 * [License](#License)
 * [Contributing](#Contributing)
 ## More-About-the-Project
