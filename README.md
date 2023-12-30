@@ -6,7 +6,7 @@
 * [Installation](#Installation)
 * [Install Reconnaissance Tool](https://github.com/balwantyadav1/BugHunterKit.git)
 * [Installation](#Installation)
-* [Report Problem](mailto:yadavbalwant464@gmail.com)
+* [Report Problem](mailto:yadavbalwant464@gmail.com?subject=Report%20Issue&body=Hello%20Inwep,%0D%0A%0D%0AI%20would%20like%20to%20report%20an%20issue.%20Here%20are%20the%20details:%0D%0A%0D%0A)
 * [Contributing](#Contributing)
 ## More-About-the-Project
 [How it Works](Howitworks.md)
