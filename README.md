@@ -50,7 +50,7 @@ LowHangingBugs is a comprehensive security testing tool designed to identify and
 
 
 
-Install BugHunterKit tool
+Install LowHangingBugs tool
 ```bash
 git clone https://github.com/balwantyadav1/LowHangingBugs.git
 
