@@ -100,5 +100,5 @@ pip3 install -r requirements.txt
 
 [Himanshu](https://github.com/Himanshu-sahare)  
 
-[Anukr](https://github.com/ankur4008) 
+[Ankur](https://github.com/ankur4008) 
 
