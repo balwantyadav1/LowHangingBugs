@@ -96,6 +96,9 @@ pip3 install -r requirements.txt
 ## License
 [MIT License](LICENSE)
 ## Contributing
-[Balwant](https://github.com/balwantyadav1)  - Developer
+[Balwant](https://github.com/balwantyadav1) 
 
-[Himanshu](https://github.com/Himanshu-sahare)  - Teste
+[Himanshu](https://github.com/Himanshu-sahare)  
+
+[Anukr](https://github.com/ankur4008) 
+
